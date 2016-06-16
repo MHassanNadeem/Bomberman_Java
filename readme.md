@@ -3,9 +3,11 @@ Bomberman arcade game written in Java using swing toolkit, as an assignment for 
 
 #### Screenshots
 Powerup:
+</br>
 ![alt text][Image 1]
 </br>
 Death:
+</br>
 ![alt text][Image 2]
 
 #### Gifs
@@ -18,6 +20,4 @@ Death:
 [Image 2]: readme_assets/2.png "Death"
 
 #### Youtube
-<p align="center">
-[![Bomberman gameplay on youtube](https://img.youtube.com/vi/BvzmhVA0msA/0.jpg)](https://www.youtube.com/watch?v=BvzmhVA0msA)
-</p>
+[![Bomberman gameplay on youtube](https://img.youtube.com/vi/BvzmhVA0msA/0.jpg)](https://www.youtube.com/watch?v=BvzmhVA0msA){:target="_blank"}
