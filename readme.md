@@ -20,4 +20,4 @@ Death:
 [Image 2]: readme_assets/2.png "Death"
 
 #### Youtube
-[![Bomberman gameplay on youtube](https://img.youtube.com/vi/BvzmhVA0msA/0.jpg)](https://www.youtube.com/watch?v=BvzmhVA0msA){:target="_blank"}
+[![Bomberman gameplay on youtube](https://img.youtube.com/vi/BvzmhVA0msA/0.jpg)](https://www.youtube.com/watch?v=BvzmhVA0msA)
